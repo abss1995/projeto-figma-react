@@ -1,0 +1,93 @@
+[
+  {
+    "country": "AD",
+    "hot dog": 197,
+    "hot dogColor": "hsl(324, 70%, 50%)",
+    "burger": 92,
+    "burgerColor": "hsl(97, 70%, 50%)",
+    "sandwich": 124,
+    "sandwichColor": "hsl(311, 0%, 100%)"
+  },
+  {
+    "country": "AE",
+    "hot dog": 165,
+    "hot dogColor": "hsl(224, 70%, 50%)",
+    "burger": 79,
+    "burgerColor": "hsl(195, 70%, 50%)",
+    "sandwich": 11,
+    "sandwichColor": "hsl(85, 70%, 50%)"
+    
+  },
+  {
+    "country": "AF",
+    "hot dog": 108,
+    "hot dogColor": "hsl(114, 70%, 50%)",
+    "burger": 8,
+    "burgerColor": "hsl(48, 70%, 50%)",
+    "sandwich": 71,
+    "sandwichColor": "hsl(132, 70%, 50%)"
+  },
+  {
+    "country": "AG",
+    "hot dog": 54,
+    "hot dogColor": "hsl(239, 70%, 50%)",
+    "burger": 43,
+    "burgerColor": "hsl(161, 70%, 50%)",
+    "sandwich": 42,
+    "sandwichColor": "hsl(332, 70%, 50%)"
+  },
+  {
+    "country": "AI",
+    "hot dog": 156,
+    "hot dogColor": "hsl(332, 70%, 50%)",
+    "burger": 76,
+    "burgerColor": "hsl(72, 70%, 50%)",
+    "sandwich": 40,
+    "sandwichColor": "hsl(220, 70%, 50%)"
+  },
+  {
+    "country": "AL",
+    "hot dog": 132,
+    "hot dogColor": "hsl(15, 70%, 50%)",
+    "burger": 120,
+    "burgerColor": "hsl(216, 70%, 50%)",
+    "sandwich": 61,
+    "sandwichColor": "hsl(108, 70%, 50%)"
+  },
+  {
+    "country": "AM",
+    "hot dog": 156,
+    "hot dogColor": "hsl(359, 70%, 50%)",
+    "burger": 22,
+    "burgerColor": "hsl(226, 70%, 50%)",
+    "sandwich": 86,
+    "sandwichColor": "hsl(11, 70%, 50%)"
+  },
+  {
+    "country": "EE",
+    "hot dog": 109,
+    "hot dogColor": "hsl(359, 70%, 50%)",
+    "burger": 48,
+    "burgerColor": "hsl(226, 70%, 50%)",
+    "sandwich": 192,
+    "sandwichColor": "hsl(11, 70%, 50%)"
+  },
+  {
+    "country": "BR",
+    "hot dog": 81,
+    "hot dogColor": "hsl(359, 70%, 50%)",
+    "burger": 77,
+    "burgerColor": "hsl(226, 70%, 50%)",
+    "sandwich": 129,
+    "sandwichColor": "hsl(11, 70%, 50%)"
+  },
+  {
+    "country": "FR",
+    "hot dog": 44,
+    "hot dogColor": "hsl(359, 70%, 50%)",
+    "burger": 154,
+    "burgerColor": "hsl(226, 70%, 50%)",
+    "sandwich": 20,
+    "sandwichColor": "hsl(11, 70%, 50%)"
+  }
+]
